@@ -1,0 +1,6 @@
+﻿  dll_injector.c
+C:\Projects\C\DLLInjector\DLLInjector\dll_injector.c(82,3): warning C4033: 'inject' must return a value
+  main.c
+  Generating Code...
+C:\Projects\C\DLLInjector\DLLInjector\dll_injector.c(89): warning C4716: 'inject': must return a value
+  DLLInjector.vcxproj -> C:\Projects\C\DLLInjector\x64\Debug\DLLInjector.exe
