@@ -1,0 +1,7 @@
+./x64
+./Debug
+./.vs
+./DLLInjector/x64
+./DLLInjector/Debug
+./MyDll/x64
+./MyDl/.vs

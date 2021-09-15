@@ -2,7 +2,7 @@
 
 #include<Windows.h>
 
-#define DLL_PATH "C:\\Projects\\C\\DLLInjector\\MyDll\\x64\\Release\\MyDll.dll"
+#define DLL_PATH "C:\\Projects\\C\\DLLInjector\\MyDll\\MyDll.dll"
 #define KERNEL32_DLL "kernel32.dll"
 #define LOAD_LIBRARY_A "LoadLibraryA"
 
