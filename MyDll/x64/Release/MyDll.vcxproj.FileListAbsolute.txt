@@ -1,1 +1,0 @@
-C:\Projects\C\DLLInjector\MyDll\x64\Release\MyDll.dll

@@ -1,5 +1,0 @@
-﻿  main.c
-C:\Projects\C\DLLInjector\DLLInjector\main.c(37,59): warning C4047: 'function': 'DWORD' differs in levels of indirection from 'void *'
-C:\Projects\C\DLLInjector\DLLInjector\main.c(37,55): warning C4024: 'CreateRemoteThread': different types for formal and actual parameter 6
-C:\Projects\C\DLLInjector\DLLInjector\main.c(38): warning C4716: 'execute_in_process': must return a value
-  DLLInjector.vcxproj -> C:\Projects\C\DLLInjector\Debug\DLLInjector.exe
